@@ -1,3 +1,6 @@
 [submodule "keras-practice"]
 	path = keras-practice
 	url = https://github.com/samc0de/keras-practice.git
+[submodule "keras-text-classification-multiclass"]
+	path = keras-text-classification-multiclass
+	url = https://github.com/samc0de/keras-text-classification-multiclass.git
