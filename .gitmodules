@@ -4,3 +4,6 @@
 [submodule "keras-text-classification-multiclass"]
 	path = keras/keras-text-classification-multiclass
 	url = https://github.com/samc0de/keras-text-classification-multiclass.git
+[submodule "keras/keras-text-classification-binary"]
+	path = keras/keras-text-classification-binary
+	url = https://github.com/samc0de/keras-text-classification-binary.git
