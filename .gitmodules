@@ -7,3 +7,6 @@
 [submodule "keras/keras-text-classification-binary"]
 	path = keras/keras-text-classification-binary
 	url = https://github.com/samc0de/keras-text-classification-binary.git
+[submodule "tensorflow/text-summarization"]
+	path = tensorflow/text-summarization
+	url = https://github.com/samc0de/text-summarization.git
